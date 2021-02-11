@@ -1,1 +1,4 @@
-Datalad git-based metadata
+This repository stores a datalad metadata model in the format written by the git mapper. There is not much to see in terms of files.
+
+If you are interested in what is going on, check out the metadata model repository and have a look at "git show-ref". ;-)
+
